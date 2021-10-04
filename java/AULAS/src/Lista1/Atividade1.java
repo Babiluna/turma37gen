@@ -21,6 +21,6 @@ public class Atividade1 {
 				System.out.println("Total de dias é: "+ totalDias);
 				
 		
-
+               
 	}
 }
