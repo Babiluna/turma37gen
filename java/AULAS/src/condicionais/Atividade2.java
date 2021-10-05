@@ -3,7 +3,7 @@ package condicionais;
  import java.util.Scanner;
  import java.util.Locale;
 
-public class Atividade2quarto {
+public class Atividade2 {
             
 	 public static void main (String args []) {
 		 
